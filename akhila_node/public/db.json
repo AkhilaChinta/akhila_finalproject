@@ -1,0 +1,52 @@
+{
+    "tasks":[
+                {
+                    "task_id": 1,
+                    "task_status": "Not Started",
+                    "task_title": "Backup Server Data",
+                    "task_startDate": "2024-04-22",
+                    "task_dueDate": "2024-04-29",
+                    "task_command": "/usr/bin/backup_server.sh"
+                },
+                {
+                    "task_id": 2,
+                    "task_status": "Completed",
+                    "task_title": "Generate Financial Reports",
+                    "task_startDate": "2024-04-15",
+                    "task_dueDate": "2024-04-20",
+                    "task_command": "/usr/bin/gen_fin_reports.sh"
+                },
+                {
+                    "task_id": 3,
+                    "task_status": "In Progress",
+                    "task_title": "Update Web API",
+                    "task_startDate": "2024-04-21",
+                    "task_dueDate": "2024-05-01",
+                    "task_command": "/usr/bin/update_api.sh"
+                },
+                {
+                    "task_id": 4,
+                    "task_status": "Not Started",
+                    "task_title": "Refactor Backend Code",
+                    "task_startDate": "2024-04-23",
+                    "task_dueDate": "2024-05-10",
+                    "task_command": "/usr/bin/refactor_backend.sh"
+                },
+                {
+                    "task_id": 5,
+                    "task_status": "In Progress",
+                    "task_title": "Update Client Profiles",
+                    "task_startDate": "2024-04-25",
+                    "task_dueDate": "2024-05-05",
+                    "task_command": "/usr/bin/update_profiles.sh"
+                },
+                {
+                    "task_id": 6,
+                    "task_status": "Completed",
+                    "task_title": "Audit Network Security",
+                    "task_startDate": "2024-03-30",
+                    "task_dueDate": "2024-04-15",
+                    "task_command": "/usr/bin/network_audit.sh"
+                }    
+    ]
+}
